@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Roseville, California with a population of over 147k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Roseville, California, US",
+  "export_job_id": "d0bd7ec6-cb82-4f46-9809-be284c190a5f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 649029,
+  "location_name": "Roseville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-roseville-california-us-sample-649029",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/649029/beamstation_649029_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 36,
+  "sample_sha256": "bfbf785e185185d2ed6175010bd66b254af47f8c90c03c61e929f88f31af9b4c",
+  "sample_size_bytes": 107987,
+  "total_records": 365,
+  "updated_at": "2026-04-14T18:35:48.419417+00:00"
+}
