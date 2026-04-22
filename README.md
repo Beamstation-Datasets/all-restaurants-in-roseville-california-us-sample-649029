@@ -1,6 +1,6 @@
 # All Restaurants in Roseville, California, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `649029` |
 | Location | Roseville |
 | Category | Restaurants |
-| Full dataset size | 365 records |
-| Free sample size | 36 records (9.86%) |
-| Last export | 2026-04-14T18:35:48.419417+00:00 |
+| Full dataset size | 300 records |
+| Free sample size | 30 records (10.0%) |
+| Last export | 2026-04-21T20:27:21.343039+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-roseville-california-us-sample-649029/releases/download/sample-latest/beamstation_649029_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
