@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d0bd7ec6-cb82-4f46-9809-be284c190a5f",
+  "export_job_id": "6f30344b-5176-4cd3-9d84-352a6089df65",
   "id_short": 649029,
-  "published_at": "2026-04-17T19:50:03Z",
+  "published_at": "2026-04-22T07:48:49Z",
   "repo_name": "all-restaurants-in-roseville-california-us-sample-649029",
   "sample_asset_name": "beamstation_649029_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/649029/beamstation_649029_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 36,
-  "sample_sha256": "bfbf785e185185d2ed6175010bd66b254af47f8c90c03c61e929f88f31af9b4c",
-  "sample_size_bytes": 107987,
-  "total_records": 365
+  "sample_records": 30,
+  "sample_sha256": "cd2682777ea0aa0356d925101cb00ff5962a40f2d159c9ec25a0420d7acb99f2",
+  "sample_size_bytes": 85311,
+  "total_records": 300
 }
